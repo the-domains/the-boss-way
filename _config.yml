@@ -1,0 +1,28 @@
+name: 'The BOSS Way!'
+favicon: null
+layout_spectrum: 0.0981712865177542
+typography_spectrum: 0.0578189215157181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4414165613707155
+  lightness: 0.5705950546544045
+  saturation: 0.8079056760761887
+  rhythmicContrast: 0.4469532025977969
+purpose: []
