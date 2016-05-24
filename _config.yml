@@ -1,7 +1,7 @@
 name: 'The BOSS Way!'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.08233
+layout_spectrum: 0
+typography_spectrum: 0.36523
 cta:
   domain: null
   bucket: null
