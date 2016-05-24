@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The "BOSS" Way : Taking care of the data so you can take care of the clients! '
-datePublished: '2016-05-24T21:09:16.254Z'
-dateModified: '2016-05-24T21:04:48.721Z'
+datePublished: '2016-05-24T21:10:29.224Z'
+dateModified: '2016-05-24T21:10:21.554Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-back-office-support-service.md
@@ -26,7 +26,4 @@ _type: Article
 
 ****
 
-**The Key In Unlocking Your Company's Investment Potential... Is In Our Exceptionally Skilled Staff and the Service BOSS Can Provide.**
-
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14946ee1-0f11-44f0-9770-242b99c92af4.jpg)
