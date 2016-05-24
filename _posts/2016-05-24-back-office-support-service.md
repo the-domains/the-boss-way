@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The "BOSS" Way : Taking care of the data so you can take care of the clients! '
-datePublished: '2016-05-24T21:04:45.207Z'
-dateModified: '2016-05-24T21:03:33.229Z'
+datePublished: '2016-05-24T21:09:16.254Z'
+dateModified: '2016-05-24T21:04:48.721Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-back-office-support-service.md
