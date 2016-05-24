@@ -1,7 +1,7 @@
 name: 'The BOSS Way!'
 favicon: null
 layout_spectrum: 0.98522
-typography_spectrum: 0.36523
+typography_spectrum: 0.85643
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#74cddf'
     - '#c9e8f2'
     - '#63a0b3'
-  brandStrength: 0.1875
+  brandStrength: 0.9375
   lightness: 0.25
-  saturation: 0.8125
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
