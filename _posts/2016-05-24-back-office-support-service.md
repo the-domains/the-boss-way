@@ -5,22 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The "BOSS" Way : Taking care of the data so you can take care of the clients! '
-datePublished: '2016-05-24T16:49:32.969Z'
-dateModified: '2016-05-23T21:24:50.182Z'
+datePublished: '2016-05-24T17:44:08.377Z'
+dateModified: '2016-05-24T17:28:03.891Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-24-back-office-support-service.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-24-back-office-support-service.md
 url: back-office-support-service/index.html
 _type: Article
 
 ---
 **BACK OFFICE SUPPORT SERVICE**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b597d78a-8939-4b9b-ac32-f2bba12bfd8f.jpg)
 
-**[The "BOSS" Way : Taking care of the data so you can take care of the clients! ][0]**
+**The "BOSS" Way : Taking care of the data so you can take care of the clients! **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6820ad44-9cfa-466a-8986-2d0fa4e180b3.jpg)
 
 **Since 1996, Back Office Support Service has been a pioneer in providing superior portfolio management system outsourcing for independent investment advisors.**
@@ -100,5 +99,3 @@ _type: Article
 * **Comprehensive audit of existing databases with a report of findings and suggested resolutions to specific problems **
 * **Interval / rate-of-return auditing and clean up to include the correct re-running of historical corporate actions, entering of missing prices, and bridging of data gaps **
 * **Billing / reporting set up**
-
-[0]: null
