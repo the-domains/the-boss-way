@@ -4,8 +4,15 @@
         <description><![CDATA[The BOSS Way!]]></description>
         <link>https://thegrid.ai/the-boss-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 16:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 16:32:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-boss-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BILLING</p>]]></description>
+            <link>https://thegrid.ai/the-boss-way/billing/index.html</link>
+            <guid isPermaLink="false">bbe9c034-f363-44c6-9d49-7ff02b03e405</guid>
+            <pubDate>Wed, 22 Jun 2016 16:32:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83efb522-f1a2-470d-aac1-37460b68b157.jpg">]]></description>
